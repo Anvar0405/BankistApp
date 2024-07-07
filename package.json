@@ -1,0 +1,11 @@
+{
+  "name": "bankist-app",
+  "version": "1.0.0",
+  "description": "Bankist-app",
+  "main": "script.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Anvar Otamurodov",
+  "license": "ISC"
+}
